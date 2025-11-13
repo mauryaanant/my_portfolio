@@ -40,8 +40,8 @@ section {
 }
 
 .profile-img {
-  width: 320px;
-  height: 320px;
+  width: 300px;
+  height: 340px;
   object-fit: cover;
   border-radius: 50%;
   border: 5px solid #fff;
@@ -378,3 +378,4 @@ img.me-2 {
   color: #fff;
   box-shadow: 0 8px 20px rgba(0, 123, 255, 0.4);
 }
+
